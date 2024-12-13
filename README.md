@@ -1,3 +1,7 @@
+Fall 2024 - 425/426 Project.
+
+Members: Cole Barbes, Spencer Presley
+
 # COSC425-DATA  
 
 A repository which implements data collection of a University's academic research articles within a given time period and classifies them into categories defined by the NSF PhD research focus areas taxonomy then provides:
